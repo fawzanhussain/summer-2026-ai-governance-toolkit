@@ -1,1 +1,4 @@
-
+Question,Category,Weight
+Does the AI system use personal data?,Privacy,5
+Is human oversight available?,Governance,5
+Has bias testing been performed?,Fairness,4
